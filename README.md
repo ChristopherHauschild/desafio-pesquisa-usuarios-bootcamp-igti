@@ -1,7 +1,7 @@
 # Desafio Pesquisa de Usuários :busts_in_silhouette:
 
-<p justify="justify">Aplicação desenvolvida durante o desafio final do Módulo 01 do Bootcamp Desenvolvimento Fullstack disponibilizado pelo Instituto de Gestão e Tecnologia da Informação - IGTI. Visando desenvolver as habilidades em JavaScript, HTML e CSS e requisições HTTP, a aplicação consiste numa lista de usuários disponível via requisição fetch que permite, ao pesquisar pelo nome dos mesmos, atualizar de forma dinâmica o quadro de estatísticas, que traz algumas informações conforme filtros.
-O capítulo foca em requisições HTTP e utilização de Promises, além de trabalhar as formas de manipulação de arrays do JS Moderno e funções de Event Loop</p>
+<div style="text-align: justify">Aplicação desenvolvida durante o desafio final do Módulo 01 do Bootcamp Desenvolvimento Fullstack disponibilizado pelo Instituto de Gestão e Tecnologia da Informação - IGTI. Visando desenvolver as habilidades em JavaScript, HTML e CSS e requisições HTTP, a aplicação consiste numa lista de usuários disponível via requisição fetch que permite, ao pesquisar pelo nome dos mesmos, atualizar de forma dinâmica o quadro de estatísticas, que traz algumas informações conforme filtros.
+O capítulo foca em requisições HTTP e utilização de Promises, além de trabalhar as formas de manipulação de arrays do JS Moderno e funções de Event Loop</div>
 
 Foram adicionados a estilização e alguns comportamentos.
 
